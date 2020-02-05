@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Fragment2</string>
+    <string name="like">OK</string>
+
+    <string name="text">Press OK for more information</string>
+    <string name="info">3bedroom Apartment\nPrice:1M\nlocation:Nairobi</string>
+
+
+</resources>
